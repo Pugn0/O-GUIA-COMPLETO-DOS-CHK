@@ -149,7 +149,3 @@ Do ponto de vista **legal e de segurança**, essas técnicas:
 ## 📝 Licença
 
 Este guia é fornecido "como está", apenas para fins educacionais e de pesquisa técnica.
-
----
-
-*Última atualização: 2025*
